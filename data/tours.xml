@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tours>
+    <treatmentTour>
+        <name>Treatment tour in Borjomi Palace</name>
+        <duration>10</duration>
+        <countries>
+            <country>Georgia</country>
+        </countries>
+        <transports>
+            <transport>Bus</transport>
+            <transport>Airplane</transport>
+        </transports>
+        <accommodation>Resort</accommodation>
+        <mealPlan>Continental Plan All Inclusive</mealPlan>
+        <cost>1200</cost>
+        <sanatoriumName>Borjomi gorge</sanatoriumName>
+        <medicalProcedures>
+            <medicalProcedure>Massage</medicalProcedure>
+            <medicalProcedure>Fangotherapy</medicalProcedure>
+            <medicalProcedure>Physiotherapy</medicalProcedure>
+            <medicalProcedure>Mineral water</medicalProcedure>
+        </medicalProcedures>
+    </treatmentTour>
+    <shopTour>
+        <name>Shop tour in Chernigov</name>
+        <duration>2</duration>
+        <countries>
+            <country>Ukraine</country>
+        </countries>
+        <transports>
+            <transport>Bus</transport>
+        </transports>
+        <accommodation>Bus</accommodation>
+        <mealPlan>Non</mealPlan>
+        <cost>70</cost>
+        <groupAmount>30</groupAmount>
+        <shops>
+            <shop>7 days</shop>
+            <shop>The EPICENTER</shop>
+            <shop>Central market</shop>
+            <shop>EKOMARKET</shop>
+        </shops>
+    </shopTour>
+    <sightseeingTour>
+        <name>Road to Rome</name>
+        <duration>15</duration>
+        <countries>
+            <country>Poland</country>
+            <country>Czech Republic</country>
+            <country>Austria</country>
+            <country>Italy</country>
+        </countries>
+        <transports>
+            <transport>Bus</transport>
+        </transports>
+        <accommodation>Bus</accommodation>
+        <mealPlan>Modified American Plan</mealPlan>
+        <cost>3553</cost>
+        <presenceGuide>true</presenceGuide>
+        <attractions>
+            <attraction>The leaning tower of Pisa</attraction>
+            <attraction>The Colosseum</attraction>
+            <attraction>Florence</attraction>
+            <attraction>Stay up late in Rimini</attraction>
+        </attractions>
+    </sightseeingTour>
+    <treatmentTour>
+        <name>Treatment tour in Caucasus mountains</name>
+        <duration>12</duration>
+        <countries>
+            <country>Georgia</country>
+        </countries>
+        <transports>
+            <transport>Bus</transport>
+            <transport>Airplane</transport>
+        </transports>
+        <accommodation>Resort</accommodation>
+        <mealPlan>Continental Plan All Inclusive</mealPlan>
+        <cost>920</cost>
+        <sanatoriumName>Ararat</sanatoriumName>
+        <medicalProcedures>
+            <medicalProcedure>Massage</medicalProcedure>
+            <medicalProcedure>Fangotherapy</medicalProcedure>
+            <medicalProcedure>Physiotherapy</medicalProcedure>
+            <medicalProcedure>Mineral water</medicalProcedure>
+        </medicalProcedures>
+    </treatmentTour>
+    <treatmentTour>
+        <name>Treatment tour in the sea</name>
+        <duration>8</duration>
+        <countries>
+            <country>Cyprus</country>
+        </countries>
+        <transports>
+            <transport>Airplane</transport>
+        </transports>
+        <accommodation>Resort</accommodation>
+        <mealPlan>American Plan All Inclusive</mealPlan>
+        <cost>1920</cost>
+        <sanatoriumName>Amel</sanatoriumName>
+        <medicalProcedures>
+            <medicalProcedure>Massage</medicalProcedure>
+            <medicalProcedure>Mineral water</medicalProcedure>
+        </medicalProcedures>
+    </treatmentTour>
+    <sightseeingTour>
+        <name>USA journey</name>
+        <duration>16</duration>
+        <countries>
+            <country>USA</country>
+        </countries>
+        <transports>
+            <transport>Airplane</transport>
+        </transports>
+        <accommodation>Hotel</accommodation>
+        <mealPlan>Modified American Plan</mealPlan>
+        <cost>5213</cost>
+        <presenceGuide>false</presenceGuide>
+        <attractions>
+            <attraction>The statue of liberty</attraction>
+            <attraction>Manhattan</attraction>
+            <attraction>Empire State Building</attraction>
+        </attractions>
+    </sightseeingTour>
+    <shopTour>
+        <name>Shop tour in Bialystok</name>
+        <duration>0</duration>
+        <countries>
+            <country>Poland</country>
+        </countries>
+        <transports>
+            <transport>Bus</transport>
+        </transports>
+        <accommodation>Bus</accommodation>
+        <mealPlan>Non</mealPlan>
+        <cost>100</cost>
+        <groupAmount>20</groupAmount>
+        <shops>
+            <shop>Esprit</shop>
+            <shop>HM</shop>
+            <shop>Dresy</shop>
+            <shop>Swetry</shop>
+            <shop>Erasmus</shop>
+        </shops>
+    </shopTour>
+    <shopTour>
+        <name>Shop tour in Bialystok</name>
+        <duration>2</duration>
+        <countries>
+            <country>Poland</country>
+        </countries>
+        <transports>
+            <transport>Bus</transport>
+        </transports>
+        <accommodation>Bus</accommodation>
+        <mealPlan>Non</mealPlan>
+        <cost>100</cost>
+        <groupAmount>20</groupAmount>
+        <shops>
+            <shop>Esprit</shop>
+            <shop>HM</shop>
+            <shop>Dresy</shop>
+            <shop>Swetry</shop>
+            <shop>Erasmus</shop>
+        </shops>
+    </shopTour>
+    <sightseeingTour>
+        <name>St. Petersburg Journey</name>
+        <duration>5</duration>
+        <countries>
+            <country>Russia</country>
+        </countries>
+        <transports>
+            <transport>Train</transport>
+        </transports>
+        <accommodation>Hotel</accommodation>
+        <mealPlan>Modified American Plan</mealPlan>
+        <cost>55</cost>
+        <presenceGuide>false</presenceGuide>
+        <attractions>
+            <attraction>St. Petersburg square</attraction>
+            <attraction>Singing fountains</attraction>
+            <attraction>The drawbridge</attraction>
+        </attractions>
+    </sightseeingTour>
+    <sightseeingTour>
+        <name>St. Petersburg Journey</name>
+        <duration>5d</duration>
+        <countries>
+            <country>Russia</country>
+        </countries>
+        <transports>
+            <transport>Train</transport>
+        </transports>
+        <accommodation>Hotel</accommodation>
+        <mealPlan>Modified American Plan</mealPlan>
+        <cost>55</cost>
+        <presenceGuide>false</presenceGuide>
+        <attractions>
+            <attraction>St. Petersburg square</attraction>
+            <attraction>Singing fountains</attraction>
+            <attraction>The drawbridge</attraction>
+        </attractions>
+    </sightseeingTour>
+    <sightseeingTour>
+        <name>St. Petersburg Journey</name>
+        <duration>5</duration>
+        <countries>
+            <country>Russia</country>
+        </countries>
+        <transports>
+            <transport>Train</transport>
+        </transports>
+        <accommodation>Hotel</accommodation>
+        <mealPlan>Modified American Plan</mealPlan>
+        <cost>55</cost>
+        <presenceGuide>fals</presenceGuide>
+        <attractions>
+            <attraction>St. Petersburg square</attraction>
+            <attraction>Singing fountains</attraction>
+            <attraction>The drawbridge</attraction>
+        </attractions>
+    </sightseeingTour>
+    <shopTour>
+        <name>Shop tour</name>
+        <duration>2</duration>
+        <countries>
+            <country>NeverLand</country>
+        </countries>
+        <transports>
+            <transport>Bus</transport>
+        </transports>
+        <accommodation>Bus</accommodation>
+        <mealPlan>Non</mealPlan>
+        <cost>100</cost>
+        <groupAmount>20</groupAmount>
+        <shops>
+            <shop>Esprit</shop>            
+            <shop>Erasmus</shop>
+        </shops>
+    </shopTour>
+</tours>
